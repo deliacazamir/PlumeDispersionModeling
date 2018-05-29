@@ -1,0 +1,11 @@
+D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\bin\Debug\netcoreapp2.0\PlumeDispersionModeling.deps.json
+D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\bin\Debug\netcoreapp2.0\PlumeDispersionModeling.runtimeconfig.json
+D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\bin\Debug\netcoreapp2.0\PlumeDispersionModeling.runtimeconfig.dev.json
+D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\bin\Debug\netcoreapp2.0\PlumeDispersionModeling.dll
+D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\bin\Debug\netcoreapp2.0\PlumeDispersionModeling.pdb
+D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\obj\Debug\netcoreapp2.0\PlumeDispersionModeling.csprojAssemblyReference.cache
+D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\obj\Debug\netcoreapp2.0\PlumeDispersionModeling.csproj.CoreCompileInputs.cache
+D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\obj\Debug\netcoreapp2.0\PlumeDispersionModeling.AssemblyInfoInputs.cache
+D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\obj\Debug\netcoreapp2.0\PlumeDispersionModeling.AssemblyInfo.cs
+D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\obj\Debug\netcoreapp2.0\PlumeDispersionModeling.dll
+D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\obj\Debug\netcoreapp2.0\PlumeDispersionModeling.pdb

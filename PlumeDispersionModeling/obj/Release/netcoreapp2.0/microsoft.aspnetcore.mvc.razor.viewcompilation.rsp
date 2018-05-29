@@ -1,0 +1,12 @@
+D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=PlumeDispersionModeling
+--content-root=D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling
+--file=D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\Pages\About.cshtml
+--file=D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\Pages\Contact.cshtml
+--file=D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\Pages\Error.cshtml
+--file=D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\Pages\Index.cshtml
+--file=D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\Pages\_Layout.cshtml
+--file=D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\Pages\_ValidationScriptsPartial.cshtml
+--file=D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\Pages\_ViewImports.cshtml
+--file=D:\GitRepository\PlumeDispersionModeling\PlumeDispersionModeling\Pages\_ViewStart.cshtml
